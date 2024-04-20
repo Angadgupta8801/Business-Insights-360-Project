@@ -1,5 +1,6 @@
 # Business-Insights-360-Project
 Project Summary: Business Insights 360
+Link:<iframe title="Business Insights 360 Project" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiODkxOGViZmEtMmExMi00MzVjLWI4MTYtMzE1OWQwYjc2YjEzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 In this project, I undertook a comprehensive analysis using Power BI, exploring key facets of finance, sales, marketing, supply chain, and executive perspectives.
 
